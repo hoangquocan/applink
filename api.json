@@ -1,4 +1,10 @@
-[
-  {"name": "abc", "email": "abc@example.com"},
-  {"name": "xyz", "email": "xyz@example.com"}
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.flutter_rust_bridge_template",
+    "sha256_cert_fingerprints":
+    ["3B:75:07:A9:A2:FD:B2:20:CC:04:DE:42:FB:0C:01:7C:13:A8:6D:E2:4F:38:89:77:39:E9:2C:2F:50:69:DC:93
+"]
+  }
+}]
